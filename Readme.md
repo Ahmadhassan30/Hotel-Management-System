@@ -25,7 +25,7 @@ This **Hotel Management System** is a **Data Structures and Algorithms (DSA) pro
 
 ```sh
  git clone https://github.com/Ahmadhassan30/Hotel-Management-System.git
- cd hotel-management-system
+ cd Hotel-Management-System
 ```
 
 2️⃣ **Install SFML:**
