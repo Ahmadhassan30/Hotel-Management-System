@@ -24,7 +24,7 @@ This **Hotel Management System** is a **Data Structures and Algorithms (DSA) pro
 1️⃣ **Clone the repository:**
 
 ```sh
- git clone https://github.com/yourusername/hotel-management-system.git
+ git clone https://github.com/Ahmadhassan30/Hotel-Management-System.git
  cd hotel-management-system
 ```
 
@@ -45,6 +45,11 @@ This **Hotel Management System** is a **Data Structures and Algorithms (DSA) pro
 ```sh
 g++ -std=c++17 -o hotel_management main.cpp hotel.cpp room.cpp -lsfml-graphics -lsfml-window -lsfml-system
 ./hotel_management
+```
+
+```cmd
+mingw32-make -f Makefile
+main.exe
 ```
 
 ## 🏆 Learning Outcomes
